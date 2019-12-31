@@ -1,2 +1,7 @@
 .idea
 /log
+*.iml
+target/
+/water-api/target
+/water-common/target
+/water-mapper/target
